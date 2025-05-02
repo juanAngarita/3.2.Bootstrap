@@ -2,7 +2,7 @@
 
 ## Decripción
 Página creada para el curso de Desarrollo web. Un video mostrando al detalle el desarrollo se encuentra en la siguiente URL: 
-<a href='https://youtu.be/gQNaI3f8UbU'> Mini curso Boostrap </a>.
+<a href='https://www.youtube.com/watch?v=BvL6k7XiAho'> Mini curso Boostrap </a>.
 
 Los temas que se explican son los siguientes:
 - Qué es Bootstrap
