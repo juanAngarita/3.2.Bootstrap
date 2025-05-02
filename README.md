@@ -24,3 +24,6 @@ La vista de la página puede variar entre tipos de pantallas y resoluciones.
 ## Resultado
 Puede acceder a la página final generada a través del siguiente enlance: <a href='https://joyasbootstrap.netlify.app/'>Joyas Bootstrap</a>
 
+
+![captura2](https://github.com/user-attachments/assets/87c696e6-c0d6-4661-8274-4a1135f427aa)
+![captura1](https://github.com/user-attachments/assets/2894350f-523a-41c1-8957-1b17eea30e5f)
