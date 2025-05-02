@@ -1,6 +1,59 @@
-.carousel-control-next-icon,
-.carousel-control-prev-icon {
-  background-color: cadetblue;
-  border-radius: 50%;
-  padding: 20px;
+body {
+  background-color: rgb(243, 252, 252);
+  font-family: "Roboto", sans-serif;
+}
+
+/*CAROUSEL*/
+.carousel-item {
+  background-color: #f7e7ce;
+}
+
+.carousel-item h5 {
+  color: rgb(0, 0, 0);
+  font-weight: 500;
+  font-size: 50px;
+  margin-bottom: 20px;
+
+  font-family: "Playfair Display", serif;
+}
+
+.carousel-item p {
+  color: rgb(0, 0, 0);
+  font-size: 30px;
+}
+
+/*CARD*/
+.col-md-8 {
+  padding: 0;
+}
+
+.card-img-top {
+  height: 200px; /* Puedes ajustar este valor según lo que desees */
+  object-fit: cover; /* Hace que la imagen llene el espacio sin deformarse */
+  width: 100%; /* Asegura que la imagen ocupe todo el ancho de la tarjeta */
+}
+
+.card h5 {
+  font-family: "Playfair Display", serif;
+  font-size: 20px;
+  font-weight: bold;
+}
+/*NAV*/
+.nav-link {
+  color: black;
+  font-size: large;
+}
+
+.nav-link:hover {
+  text-decoration: underline;
+}
+
+/* styles.css */
+.btn-primary {
+  background-color: #1f4e96 !important; /* Color del fondo */
+  border-color: #1f4e96 !important; /* Color del borde */
+}
+
+.modal-dialog {
+  max-width: 70%; /* Puedes cambiar el valor (porcentaje o px) según lo que necesites */
 }
