@@ -2,7 +2,7 @@
 
 ## Decripción
 Página creada para el curso de Desarrollo web. Un video mostrando al detalle el desarrollo se encuentra en la siguiente URL: 
-<a href='[https://www.youtube.com/watch?v=BvL6k7XiAho](https://youtu.be/3mJ-iY_s-VQ)'> Aprende Spring Boot + Thymeleaf en un Proyecto Real 🔥 CRUD Completo desde Cero</a>.
+<a href='https://youtu.be/3mJ-iY_s-VQ'> Aprende Spring Boot + Thymeleaf en un Proyecto Real 🔥 CRUD Completo desde Cero</a>.
 
 Los temas que se explican son los siguientes:
 - Thymeleaf
