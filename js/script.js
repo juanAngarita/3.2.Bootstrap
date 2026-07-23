@@ -3,80 +3,80 @@ const productos = [
     nombre: "Anillo de Diamantes",
     descripcion:
       "Hermoso anillo con diamantes incrustados, ideal para ocasiones especiales.",
-    imagen: "/images/articles/joya1.jpg",
+    imagen: "images/articles/joya1.jpg",
     enlace: "#",
   },
   {
     nombre: "Collar de Oro",
     descripcion:
       "Collar de oro de 18 quilates con diseño elegante y sofisticado.",
-    imagen: "/images/articles/joya2.webp",
+    imagen: "images/articles/joya2.webp",
     enlace: "#",
   },
   {
     nombre: "Pulsera de Plata",
     descripcion:
       "Pulsera moderna de plata esterlina, perfecta para uso diario.",
-    imagen: "/images/articles/joya3.webp",
+    imagen: "images/articles/joya3.webp",
     enlace: "#",
   },
   {
     nombre: "Aretes de Perla",
     descripcion:
       "Finos aretes con perlas naturales, un clásico que nunca pasa de moda.",
-    imagen: "/images/articles/jpya4.webp",
+    imagen: "images/articles/jpya4.webp",
     enlace: "#",
   },
   {
     nombre: "Anillo de Compromiso",
     descripcion: "Un anillo clásico y elegante con piedra central brillante.",
-    imagen: "/images/articles/joya5.jpg",
+    imagen: "images/articles/joya5.jpg",
     enlace: "#",
   },
   {
     nombre: "Reloj de Lujo",
     descripcion: "Reloj con acabados en oro y correa de cuero genuino.",
-    imagen: "/images/articles/joya6.webp",
+    imagen: "images/articles/joya6.webp",
     enlace: "#",
   },
   {
     nombre: "Broche Elegante",
     descripcion: "Broche con diseño floral en oro rosa y detalles en cristal.",
-    imagen: "/images/articles/joya7.webp",
+    imagen: "images/articles/joya7.webp",
     enlace: "#",
   },
   {
     nombre: "Anillo de Plata",
     descripcion: "Anillo de plata esterlina con diseño minimalista y moderno.",
-    imagen: "/images/articles/joya8.jpg",
+    imagen: "images/articles/joya8.jpg",
     enlace: "#",
   },
   {
     nombre: "Anillo de Diamantes",
     descripcion:
       "Hermoso anillo con diamantes incrustados, ideal para ocasiones especiales.",
-    imagen: "/images/articles/joya1.jpg",
+    imagen: "images/articles/joya1.jpg",
     enlace: "#",
   },
   {
     nombre: "Collar de Oro",
     descripcion:
       "Collar de oro de 18 quilates con diseño elegante y sofisticado.",
-    imagen: "/images/articles/joya2.webp",
+    imagen: "images/articles/joya2.webp",
     enlace: "#",
   },
   {
     nombre: "Pulsera de Plata",
     descripcion:
       "Pulsera moderna de plata esterlina, perfecta para uso diario.",
-    imagen: "/images/articles/joya3.webp",
+    imagen: "images/articles/joya3.webp",
     enlace: "#",
   },
   {
     nombre: "Aretes de Perla",
     descripcion:
       "Finos aretes con perlas naturales, un clásico que nunca pasa de moda.",
-    imagen: "/images/articles/jpya4.webp",
+    imagen: "images/articles/jpya4.webp",
     enlace: "#",
   },
 ];
